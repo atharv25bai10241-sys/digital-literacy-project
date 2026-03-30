@@ -1,10 +1,10 @@
 # Digital Literacy Project
 
-## Student Details
-**Name:** Atharv Kala
-**Registration Number:** 25BAI10241 
-**Branch:** B.Tech Computer Science and Engineering in A.I. and M.L.
-**Course Code:** CSE0001  
+## Student Details                       
+**Name:** Atharv Kala                                                   
+**Registration Number:** 25BAI10241                                        
+**Branch:** B.Tech Computer Science and Engineering in A.I. and M.L.                              
+**Course Code:** CSE0001                                               
 
 ---
 
