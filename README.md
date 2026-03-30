@@ -57,7 +57,10 @@ For this task, I created a case study on UPI fraud and a prevention checklist. T
 ## Project Links
 
 - 🌐 **GitHub Repository:** https://github.com/atharv25bai10241-sys/digital-literacy-project.git 
-- 📝 **Google Form (Quiz):**https://docs.google.com/forms/d/e/1FAIpQLSc7veXNbPiMKiWx2VtOVddLD6UYs-LjIleztKC_zkr4e7I5tQ/viewform?usp=header
+- 📝 **Google Form (Quiz):**https://docs.google.com/forms/d/e/1FAIpQLSc7veXNbPiMKiWx2VtOVddLD6UYs-LjIleztKC_zkr4e7I5tQ/viewform?usp=header        
+- 👤**Linkedin:**https://www.linkedin.com/in/atharv-kala-4901552a9/
+- 👤**Kaggle:**https://www.kaggle.com/atharvkala
+- 👤**Hackerrank:**https://www.hackerrank.com/profile/atharv_25bai1021             
 ---
 
 ## Tools & Platforms Used
